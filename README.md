@@ -29,17 +29,18 @@ stock-sentiment-project/
 
 ## ⚙️ Installation & Usage
 
-### 1. Clone the repository
+### 1. Clone 
+#### 1.1 Clone the repository
 ```bash
 git clone https://github.com/shgupta901/stock-sentiment-analysis.git
 cd stock-sentiment-analysis
 ```
-2. Install dependencies
+#### 1.2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the dashboard
+####  1.3. Run the dashboard
 ```bash
 streamlit run app.py
 ```
