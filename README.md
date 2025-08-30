@@ -33,12 +33,16 @@ stock-sentiment-project/
 ```bash
 git clone https://github.com/shgupta901/stock-sentiment-analysis.git
 cd stock-sentiment-analysis
-
+```
 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 3. Run the dashboard
+```bash
 streamlit run app.py
+```
 
 Input:  "Tesla rallies after record deliveries"
 Output: "Prediction: Positive (Market Up)"
