@@ -30,7 +30,7 @@ stock-sentiment-project/
 ## ⚙️ Installation & Usage
 
 ### 1. Clone the repository
-
+```bash
 git clone https://github.com/shgupta901/stock-sentiment-analysis.git
 cd stock-sentiment-analysis
 
